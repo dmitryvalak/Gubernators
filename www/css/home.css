@@ -1,0 +1,44 @@
+.i-canvas-wrapper.home {
+  background: #0e487c;
+  padding-bottom: 139px;
+  height: 100%;
+  /*-webkit-background-size: cover;*/
+}
+.b-footer {
+  border: 0;
+  background: #ffffff;
+  background: -moz-linear-gradient(top, #ffffff 0%, #e9eaed 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #e9eaed));
+  background: -webkit-linear-gradient(top, #ffffff 0%, #e9eaed 100%);
+  background: -o-linear-gradient(top, #ffffff 0%, #e9eaed 100%);
+  background: -ms-linear-gradient(top, #ffffff 0%, #e9eaed 100%);
+  background: linear-gradient(to bottom, #ffffff 0%, #e9eaed 100%);
+}
+.b-footer h3 {
+  color: #404142;
+}
+.b-search-form {
+  background: #0e487c url(../img/home/bg.jpg) center -110px no-repeat;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%;
+  width: 640px;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 30px;
+}
+.b-search-form h2 {
+  font-family: 'Lato', Arial, sans-serif;
+  font-size: 46px;
+  font-weight: bold;
+  margin: 60px 0 0 0;
+}
+.b-search-form h2 > span {
+  color: #ff9630;
+  text-shadow: 1px 0 0 #fbd5af;
+}
+@media screen and (max-height: 1000px) {
+  .b-search-form h2 {
+    display: none;
+  }
+}

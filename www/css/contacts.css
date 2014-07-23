@@ -1,0 +1,50 @@
+.b-contacts {
+  width: 520px;
+  height: 410px;
+  margin: 100px auto 0 auto;
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  color: #000;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.b-contacts .map {
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.b-contacts_bar {
+  width: 320px;
+  height: 80px;
+  margin: 20px auto 0 auto;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 10px;
+  padding: 10px;
+}
+.b-contacts_bar a {
+  display: block;
+  float: left;
+  width: 33%;
+  height: 60px;
+}
+.b-contacts_bar a.ico-phone {
+  background: url(../img/ico-phone-white.png) center no-repeat;
+}
+.b-contacts_bar a.ico-mail {
+  background: url(../img/ico-soc-email.png) center no-repeat;
+}
+.b-contacts_bar a.ico-web {
+  background: url(../img/ico-web.png) center no-repeat;
+}
+.search-btn {
+  display: block;
+  margin: 30px auto;
+  border: 0;
+  border-radius: 5px;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 10px 20px;
+  text-transform: uppercase;
+}

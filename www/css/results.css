@@ -1,0 +1,18 @@
+.flight-info {
+  color: #d7ecff;
+  font-size: 20px;
+  font-style: normal;
+}
+.b-call-now .edit-search {
+  border: 1px dashed #fff;
+  padding: 10px;
+  margin: 10px auto 0 auto;
+  display: block;
+  width: 170px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.b-call-now .edit-search:hover,
+.b-call-now .edit-search:focus {
+  text-decoration: none;
+}

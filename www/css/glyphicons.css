@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'Glyphicons Regular';
+  src: url('fonts/glyphicons/glyphicons-regular.eot');
+  src: url('fonts/glyphicons/glyphicons-regular.eot?#iefix') format('embedded-opentype'), url('fonts/glyphicons/glyphicons-regular.woff') format('woff'), url('fonts/glyphicons/glyphicons-regular.ttf') format('truetype'), url('fonts/glyphicons/glyphicons-regular.svg#glyphiconsregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.glyphicons {
+  display: inline-block;
+  position: relative;
+  padding-left: 48px;
+  color: #1d1d1b;
+  text-decoration: none;
+  *display: inline;
+  *zoom: 1;
+  vertical-align: middle;
+}
+.glyphicons:before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: inline-block;
+  margin: 0 5px 0 0;
+  font: 24px/1em 'Glyphicons Regular';
+  font-style: normal;
+  font-weight: normal;
+  color: #1d1d1b;
+  *display: inline;
+  *zoom: 1;
+  vertical-align: middle;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+}
+.glyphicons.home:before {
+  content: "\E021";
+}
+.glyphicons.picture:before {
+  content: "\E139";
+}
+.glyphicons.euro:before {
+  content: "\20AC";
+}
+.glyphicons.google_maps:before {
+  content: "\E243";
+}
+.glyphicons.globe:before {
+  content: "\E341";
+}
+.glyphicons.book_open:before {
+  content: "\E352";
+}
