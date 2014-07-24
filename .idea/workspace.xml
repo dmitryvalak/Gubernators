@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a98f37d5-fafb-4291-9d6f-081960f33b09" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-173-tile.png" afterPath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-173-tile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-48.png" afterPath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-62-tile.png" afterPath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-62-tile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icon.png" afterPath="$PROJECT_DIR$/www/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-portrait.png" afterPath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-portrait.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-portrait.png" afterPath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-portrait.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-portrait.png" afterPath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-portrait.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/screen/windows-phone/screen-portrait.jpg" afterPath="$PROJECT_DIR$/www/res/screen/windows-phone/screen-portrait.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/calculate.html" afterPath="$PROJECT_DIR$/www/calculate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/contacts.html" afterPath="$PROJECT_DIR$/www/contacts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/gallery.html" afterPath="$PROJECT_DIR$/www/gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
@@ -46,26 +33,7 @@
     <favorites_list name="gubernator_app" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="navigation.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/navigation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="25" selection-start="3234" selection-end="3234" vertical-scroll-proportion="-52.153847" vertical-offset="157" max-vertical-offset="2006">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.23502304" vertical-offset="0" max-vertical-offset="1156">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -142,20 +110,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gubernator_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gubernator_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -189,6 +143,11 @@
       <created>1406136607827</created>
       <updated>1406136607827</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated icons">
+      <created>1406217238398</created>
+      <updated>1406217238398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -229,7 +188,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Updated icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated icons" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -249,72 +209,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.23502304" vertical-offset="0" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/calculate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="74" selection-start="183" selection-end="253" vertical-scroll-proportion="0.16887417" vertical-offset="0" max-vertical-offset="1921">
+        <state line="20" column="12" selection-start="471" selection-end="471" vertical-scroll-proportion="0.33774835" vertical-offset="136" max-vertical-offset="1921">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1462">
+        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.544" vertical-offset="255" max-vertical-offset="1462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="3026">
+        <state line="30" column="58" selection-start="1188" selection-end="1188" vertical-scroll-proportion="0.408" vertical-offset="255" max-vertical-offset="3026">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="74" selection-start="244" selection-end="244" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1292">
+        <state line="33" column="68" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.68" vertical-offset="153" max-vertical-offset="1292">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/menu_alcohol.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1292">
+        <state line="36" column="68" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.7616" vertical-offset="153" max-vertical-offset="1292">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/menu_en_fr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1309">
+        <state line="31" column="58" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.5984" vertical-offset="153" max-vertical-offset="1309">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/menu_ru_lv.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1309">
+        <state line="36" column="68" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.68" vertical-offset="204" max-vertical-offset="1309">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/menu_vins.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1309">
+        <state line="31" column="58" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.5984" vertical-offset="153" max-vertical-offset="1309">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="25" selection-start="3234" selection-end="3234" vertical-scroll-proportion="-52.153847" vertical-offset="157" max-vertical-offset="2006">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.23502304" vertical-offset="0" max-vertical-offset="1156">
+        <state line="69" column="68" selection-start="2768" selection-end="2768" vertical-scroll-proportion="0.78145695" vertical-offset="718" max-vertical-offset="2006">
           <folding />
         </state>
       </provider>
