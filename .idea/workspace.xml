@@ -2,69 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a98f37d5-fafb-4291-9d6f-081960f33b09" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gubernator_app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\README.md" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation.apk" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\.classpath" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\.project" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\ant.properties" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\assets\www\.project" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\assets\www\cordova-2.9.0.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\assets\www\index.html" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\assets\www\jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\assets\www\phonenavigator.js" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\build.xml" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\libs\cordova-2.9.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\project.properties" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable-hdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable-ldpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable-ldpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable-mdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable-xhdpi\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\drawable\icon.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\layout\main.xml" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\values\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\res\xml\config.xml" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\src\org\apache\cordova\example\example.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\plugins\phonegap-native-navigation-master\example\NativeNavigation\src\org\apache\cordova\plugin\PhoneNavigator.java" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\bada-wac\icon-48-type5.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\bada-wac\icon-50-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\bada-wac\icon-80-type4.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\bada\icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\blackberry\icon-80.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\ios\icon-57-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\ios\icon-57.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\ios\icon-72-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\ios\icon-72.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\tizen\icon-128.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\icon\webos\icon-64.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\bada-wac\screen-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\bada-wac\screen-type4.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\bada-wac\screen-type5.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\bada\screen-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\blackberry\screen-225.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-ipad-landscape-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-ipad-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-ipad-portrait-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-ipad-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-iphone-landscape-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-iphone-landscape.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-iphone-portrait-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-iphone-portrait-568h-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\ios\screen-iphone-portrait.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\tizen\README.md" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\res\screen\webos\screen-64.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-173-tile.png" afterPath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-173-tile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-36-ldpi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-48-mdpi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-48.png" afterPath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-48.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-62-tile.png" afterPath="$PROJECT_DIR$/www/res/icon/windows-phone/icon-62-tile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-72-hdpi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" afterPath="$PROJECT_DIR$/www/res/icon/android/icon-96-xhdpi.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/icon.png" afterPath="$PROJECT_DIR$/www/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-portrait.png" afterPath="$PROJECT_DIR$/www/res/screen/android/screen-hdpi-portrait.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-portrait.png" afterPath="$PROJECT_DIR$/www/res/screen/android/screen-ldpi-portrait.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-portrait.png" afterPath="$PROJECT_DIR$/www/res/screen/android/screen-mdpi-portrait.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/res/screen/windows-phone/screen-portrait.jpg" afterPath="$PROJECT_DIR$/www/res/screen/windows-phone/screen-portrait.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/calculate.html" afterPath="$PROJECT_DIR$/www/calculate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/config.xml" afterPath="$PROJECT_DIR$/www/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/contacts.html" afterPath="$PROJECT_DIR$/www/contacts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/gallery.html" afterPath="$PROJECT_DIR$/www/gallery.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
@@ -73,6 +24,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_ru_lv.html" afterPath="$PROJECT_DIR$/www/menu_ru_lv.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_vins.html" afterPath="$PROJECT_DIR$/www/menu_vins.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/navigation.html" afterPath="$PROJECT_DIR$/www/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gubernator_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,10 +47,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="navigation.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="navigation.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/navigation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="38" selection-start="568" selection-end="568" vertical-scroll-proportion="0.408" vertical-offset="0" max-vertical-offset="1938">
+            <state line="89" column="25" selection-start="3234" selection-end="3234" vertical-scroll-proportion="-52.153847" vertical-offset="157" max-vertical-offset="2006">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.23502304" vertical-offset="0" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
@@ -117,15 +78,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/menu_en_fr.html" />
-        <option value="$PROJECT_DIR$/www/menu_ru_lv.html" />
-        <option value="$PROJECT_DIR$/www/menu_vins.html" />
-        <option value="$PROJECT_DIR$/www/navigation.html" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/calculate.html" />
         <option value="$PROJECT_DIR$/www/contacts.html" />
         <option value="$PROJECT_DIR$/www/gallery.html" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/menu_alcohol.html" />
+        <option value="$PROJECT_DIR$/www/menu_en_fr.html" />
+        <option value="$PROJECT_DIR$/www/menu_ru_lv.html" />
+        <option value="$PROJECT_DIR$/www/menu_vins.html" />
+        <option value="$PROJECT_DIR$/www/navigation.html" />
       </list>
     </option>
   </component>
@@ -202,8 +164,22 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -216,28 +192,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49039882" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -252,70 +229,92 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/menu_ru_lv.html">
+    <entry file="file://$PROJECT_DIR$/www/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="15" selection-start="2361" selection-end="2361" vertical-scroll-proportion="0.6736" vertical-offset="684" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_vins.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="15" selection-start="2360" selection-end="2360" vertical-scroll-proportion="-15.692307" vertical-offset="663" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/calculate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="-1.8288" vertical-offset="1296" max-vertical-offset="1921">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.2448" vertical-offset="0" max-vertical-offset="1462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.2448" vertical-offset="0" max-vertical-offset="3026">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="302" selection-end="302" vertical-scroll-proportion="0.2448" vertical-offset="0" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_alcohol.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.2448" vertical-offset="0" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_en_fr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="15" selection-start="2361" selection-end="2361" vertical-scroll-proportion="1.768" vertical-offset="0" max-vertical-offset="1309">
+        <state line="15" column="38" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1870">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="568" selection-end="568" vertical-scroll-proportion="0.408" vertical-offset="0" max-vertical-offset="1938">
+        <state line="15" column="38" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/calculate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="74" selection-start="183" selection-end="253" vertical-scroll-proportion="0.16887417" vertical-offset="0" max-vertical-offset="1921">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="3026">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="74" selection-start="244" selection-end="244" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_alcohol.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_en_fr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_ru_lv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_vins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="74" selection-start="253" selection-end="253" vertical-scroll-proportion="0.1632" vertical-offset="0" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="25" selection-start="3234" selection-end="3234" vertical-scroll-proportion="-52.153847" vertical-offset="157" max-vertical-offset="2006">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.23502304" vertical-offset="0" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>

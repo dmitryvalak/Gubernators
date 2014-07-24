@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="HandheldFriendly" content="true" />
-    <meta name="viewport" content="width=640, maximum-scale=1, user-scalable=no, target-densitydpi=96" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <title>Gubernators</title>
 
@@ -17,29 +17,33 @@
 
     <script type="text/javascript">
 
-        function navigateTo(lat, lon, successFn, errorFn){
-            if(device.platform == "Android"){
-                cordova.require('cordova/plugin/phonenavigator').doNavigate(lat, lon, successFn, errorFn);
-            }else if(device.platform == "iOS"){
-                var url = "maps:daddr="+lat+","+lon;
-                successFn();
-                window.location = url;
-            }else{
-                console.error("Неизвестная платформа");
+        $(document).ready(function(){
+            function navigateTo(lat, lon, successFn, errorFn){
+                if(device.platform == "Android"){
+                    cordova.require('cordova/plugin/phonenavigator').doNavigate(lat, lon, successFn, errorFn);
+                }else if(device.platform == "iOS"){
+                    var url = "maps:daddr="+lat+","+lon;
+                    successFn();
+                    window.location = url;
+                }else{
+                    console.error("Неизвестная платформа");
+                }
             }
-        }
 
-        function init() {
+            function init() {
 
-            $("#go").click(function(){
-                navigateTo($("#lat").val(), $("#lon").val(), function(){
-                    console.log("Маршрут проложен успешно!");
-                }, function(errMsg){
-                    console.log("Ошибка в проложении маршрута: "+errMsg);
-                })
-            });
-        }
-        $(document).on("deviceready", init);
+                $("#go").click(function(){
+                    navigateTo($("#lat").val(), $("#lon").val(), function(){
+                        console.log("Маршрут проложен успешно!");
+                    }, function(errMsg){
+                        console.log("Ошибка в проложении маршрута: "+errMsg);
+                    })
+                });
+            }
+            $(document).on("deviceready", init);
+
+        });
+
     </script>
 
 </head>
