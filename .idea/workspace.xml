@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a98f37d5-fafb-4291-9d6f-081960f33b09" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/calculate.html" afterPath="$PROJECT_DIR$/www/calculate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/contacts.html" afterPath="$PROJECT_DIR$/www/contacts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/gallery.html" afterPath="$PROJECT_DIR$/www/gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_alcohol.html" afterPath="$PROJECT_DIR$/www/menu_alcohol.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_en_fr.html" afterPath="$PROJECT_DIR$/www/menu_en_fr.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_ru_lv.html" afterPath="$PROJECT_DIR$/www/menu_ru_lv.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_vins.html" afterPath="$PROJECT_DIR$/www/menu_vins.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/contacts.css" afterPath="$PROJECT_DIR$/www/css/contacts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/main.css" afterPath="$PROJECT_DIR$/www/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/navigation.html" afterPath="$PROJECT_DIR$/www/navigation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/phonenavigator.js" afterPath="$PROJECT_DIR$/www/js/phonenavigator.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gubernator_app.iws" />
@@ -33,7 +28,44 @@
     <favorites_list name="gubernator_app" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="820" column="19" selection-start="12586" selection-end="12586" vertical-scroll-proportion="0.0" vertical-offset="14650" max-vertical-offset="18785">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacts.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/contacts.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="15" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacts.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/contacts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="-22.23077" vertical-offset="0" max-vertical-offset="1462">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigation.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/navigation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="26" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0272" vertical-offset="221" max-vertical-offset="1955">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -46,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/calculate.html" />
         <option value="$PROJECT_DIR$/www/contacts.html" />
         <option value="$PROJECT_DIR$/www/gallery.html" />
@@ -55,7 +86,10 @@
         <option value="$PROJECT_DIR$/www/menu_en_fr.html" />
         <option value="$PROJECT_DIR$/www/menu_ru_lv.html" />
         <option value="$PROJECT_DIR$/www/menu_vins.html" />
+        <option value="$PROJECT_DIR$/www/config.xml" />
         <option value="$PROJECT_DIR$/www/navigation.html" />
+        <option value="$PROJECT_DIR$/www/css/contacts.css" />
+        <option value="$PROJECT_DIR$/www/css/main.css" />
       </list>
     </option>
   </component>
@@ -147,14 +181,21 @@
       <created>1406217238398</created>
       <updated>1406217238398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated menu">
+      <created>1406218820865</created>
+      <updated>1406218820865</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated config">
+      <created>1406219632198</created>
+      <updated>1406219632198</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49039882" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -171,6 +212,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49039882" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -189,92 +231,104 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Updated icons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated icons" />
+    <MESSAGE value="Updated menu" />
+    <MESSAGE value="Updated config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/navigation.html">
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="38" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1870">
+        <state line="1" column="25" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.23502304" vertical-offset="0" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/calculate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="471" selection-end="471" vertical-scroll-proportion="0.33774835" vertical-offset="136" max-vertical-offset="1921">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.544" vertical-offset="255" max-vertical-offset="1462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="58" selection-start="1188" selection-end="1188" vertical-scroll-proportion="0.408" vertical-offset="255" max-vertical-offset="3026">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="68" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.68" vertical-offset="153" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_alcohol.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="68" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.7616" vertical-offset="153" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_en_fr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="58" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.5984" vertical-offset="153" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_ru_lv.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="68" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.68" vertical-offset="204" max-vertical-offset="1309">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_vins.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="58" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.5984" vertical-offset="153" max-vertical-offset="1309">
+        <state line="1" column="25" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="68" selection-start="2768" selection-end="2768" vertical-scroll-proportion="0.78145695" vertical-offset="718" max-vertical-offset="2006">
+        <state line="15" column="38" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="38" selection-start="568" selection-end="568" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/calculate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="12" selection-start="471" selection-end="471" vertical-scroll-proportion="0.33774835" vertical-offset="136" max-vertical-offset="1921" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="58" selection-start="1188" selection-end="1188" vertical-scroll-proportion="0.408" vertical-offset="255" max-vertical-offset="3026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="68" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.68" vertical-offset="153" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_alcohol.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="68" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.7616" vertical-offset="153" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_en_fr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="58" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.5984" vertical-offset="153" max-vertical-offset="1309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_ru_lv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="68" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.68" vertical-offset="204" max-vertical-offset="1309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_vins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="58" selection-start="1187" selection-end="1187" vertical-scroll-proportion="0.5984" vertical-offset="153" max-vertical-offset="1309" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="25" selection-start="64" selection-end="64" vertical-scroll-proportion="0.026113672" vertical-offset="0" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/contacts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="15" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="820" column="19" selection-start="12586" selection-end="12586" vertical-scroll-proportion="0.0" vertical-offset="14650" max-vertical-offset="18785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="-22.23077" vertical-offset="0" max-vertical-offset="1462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="460" selection-end="460" vertical-scroll-proportion="0.0272" vertical-offset="221" max-vertical-offset="1955">
           <folding />
         </state>
       </provider>

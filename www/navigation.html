@@ -11,36 +11,33 @@
     <link href="css/main.css" rel="stylesheet" />
     <link href="css/contacts.css" rel="stylesheet" />
 
-    <script src="js/cordova-2.9.0.js"></script>
+    <script src="js/cordova.js"></script>
     <script src="js/jquery/jquery-1.11.1.min.js"></script>
     <script src="js/phonenavigator.js"></script>
 
     <script type="text/javascript">
 
         $(document).ready(function(){
-            function navigateTo(lat, lon, successFn, errorFn){
-                if(device.platform == "Android"){
-                    cordova.require('cordova/plugin/phonenavigator').doNavigate(lat, lon, successFn, errorFn);
-                }else if(device.platform == "iOS"){
-                    var url = "maps:daddr="+lat+","+lon;
-                    successFn();
-                    window.location = url;
-                }else{
-                    console.error("Неизвестная платформа");
-                }
+            //function declaration
+            function navigateTo (lat, lon, successFn, errorFn) {
+                cordova.require('cordova/plugin/phonenavigator').doNavigate(lat, lon, successFn, errorFn);
             }
 
-            function init() {
+//set lat and lon variables. Most probably read them from the UI
+            var latitude =  48.137607;
+            var longitude = 11.568569;
 
-                $("#go").click(function(){
-                    navigateTo($("#lat").val(), $("#lon").val(), function(){
-                        console.log("Маршрут проложен успешно!");
-                    }, function(errMsg){
-                        console.log("Ошибка в проложении маршрута: "+errMsg);
-                    })
-                });
-            }
-            $(document).on("deviceready", init);
+//call function
+            navigateTo(
+                    latitude,
+                    longitude,
+                    function(){
+                        console.log("Successfully opened navigator");
+                    },
+                    function(){
+                        console.log("Error opening navigator");
+                    }
+            );
 
         });
 

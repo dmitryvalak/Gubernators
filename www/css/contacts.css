@@ -1,5 +1,6 @@
 .b-contacts {
-  width: 520px;
+    width: 90%;
+  max-width: 520px;
   height: 410px;
   margin: 100px auto 0 auto;
   background: #fff;
