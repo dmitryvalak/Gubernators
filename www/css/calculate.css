@@ -1,5 +1,5 @@
 .b-calculate {
-  width: 550px;
+  width: 90%;
   margin: 100px auto 0 auto;
   background: #fff;
   border-radius: 10px;
@@ -40,11 +40,12 @@ h3 {
 label {
   display: block;
   float: left;
-  width: 300px;
+  width: 50%;
   line-height: 20px;
+    font-size: 20px;
 }
 input[type="text"] {
-  float: left;
+  float: right;
 }
 .btn-calculate {
   width: 50%;

@@ -819,6 +819,7 @@ html,
 body {
   width: 100%;
   max-width: 640px;
+    min-width: 340px;
   height: 100%;
   min-height: 100%;
   overflow-x: hidden;
@@ -828,7 +829,6 @@ body {
   position: relative;
   font-family: Arial, Helvetica, sans-serif;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  background: #1d2936 url(../img/bg-nav.jpg) 0 0 repeat;
 }
 .container-fluid {
   margin-right: auto;
@@ -869,8 +869,8 @@ img:hover {
   transition: transform .5s ease;
 }
 .i-canvas-wrapper.i-offset-right {
-  -webkit-transform: translate3d(400px, 0, 0);
-  transform: translate3d(400px, 0, 0);
+  -webkit-transform: translate3d(60%, 0, 0);
+  transform: translate3d(60%, 0, 0);
 }
 .b-header {
   height: 100px;
@@ -913,20 +913,19 @@ img:hover {
   border: 0;
   outline: 0;
 }
-.show-nav {
-  left: 0 !important;
-}
+
 .b-nav {
+    background: #1d2936 url(../img/bg-nav.jpg) 0 0 repeat;
   position: fixed;
-  left: -400px;
+  left: 0;
   top: 0;
   display: block;
-  width: 400px;
+  width: 60%;
+    max-width: 380px;
   height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
   font-size: .7em;
-  background: #1d2936 url(../img/bg-nav.jpg) 0 0 repeat;
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -950,9 +949,9 @@ img:hover {
   list-style-type: none;
 }
 .b-nav ul li a {
+    background: #1d2936 url(../img/bg-nav.jpg) 0 0 repeat;
   display: block;
   padding: .9em 3.2em .85em;
-  border-bottom: 1px solid #141c24;
   -webkit-box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.04);
   box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.04);
   overflow: hidden;
@@ -987,13 +986,7 @@ img:hover {
   transition: all .2s;
 }
 .b-nav ul li.active > a {
-  background: #804a0b;
-  background: -moz-linear-gradient(top, rgba(150, 89, 17, 0.8) 0%, rgba(128, 74, 11, 0.8) 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(150, 89, 17, 0.8)), color-stop(100%, rgba(128, 74, 11, 0.8)));
-  background: -webkit-linear-gradient(top, rgba(150, 89, 17, 0.8) 0%, rgba(128, 74, 11, 0.8) 100%);
-  background: -o-linear-gradient(top, rgba(150, 89, 17, 0.8) 0%, rgba(128, 74, 11, 0.8) 100%);
-  background: -ms-linear-gradient(top, rgba(150, 89, 17, 0.8) 0%, rgba(128, 74, 11, 0.8) 100%);
-  background: linear-gradient(to bottom, rgba(150, 89, 17, 0.8) 0%, rgba(128, 74, 11, 0.8) 100%);
+  box-shadow: 0 0 40px rgba(0, 0, 0, 1) inset;
 }
 .b-nav ul li.active > a::after {
   background: url('../img/active-arrow.png') center no-repeat;
@@ -1025,7 +1018,7 @@ img:hover {
 .b-hours {
   background: url(../img/hours-bg.jpg) center no-repeat;
   padding: 40px;
-  width: 440px;
+  width: 90%;
   margin: 200px auto 0 auto;
   text-align: center;
   border-radius: 20px;
@@ -1093,4 +1086,32 @@ a.btn {
 }
 .btn-block {
   display: block;
+}
+
+
+
+@media (max-width: 420px) {
+
+    .b-hours {
+        padding: 10px;
+        margin-top: 70px;
+        font-size: 21px;
+    }
+
+    .b-hours h1 {
+        font-size: 28px;
+    }
+
+    .b-contacts p {
+        font-size: 18px;
+    }
+
+    .b-calculate label {
+        font-size: 14px;
+    }
+
+    .b-calculate h3 {
+        font-size: 18px;
+    }
+
 }

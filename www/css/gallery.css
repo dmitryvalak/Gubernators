@@ -1,7 +1,11 @@
 .i-canvas-wrapper {
-  background: none;
+    background: #1d2936 url(../img/bg-nav.jpg) 0 0 repeat;
 }
 .b-gallery {
-  width: 640px;
+  width: 95%;
   margin: 100px auto 0 auto;
+}
+
+.b-gallery img {
+    width: 100%;
 }
