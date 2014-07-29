@@ -2,26 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a98f37d5-fafb-4291-9d6f-081960f33b09" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/PhoneNavigator-Phonegap-3.x-master/src/android/PhoneNavigator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/PhoneNavigator-Phonegap-3.x-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/PhoneNavigator-Phonegap-3.x-master/lib/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/PhoneNavigator-Phonegap-3.x-master/www/phonenavigator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/PhoneNavigator-Phonegap-3.x-master/plugin.xml" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\css\home.css" afterPath="" />
-      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\css\index.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/calculate.css" afterPath="$PROJECT_DIR$/www/css/calculate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/calculate.html" afterPath="$PROJECT_DIR$/www/calculate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/contacts.html" afterPath="$PROJECT_DIR$/www/contacts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/gallery.css" afterPath="$PROJECT_DIR$/www/css/gallery.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/idangerous.swiper.css" afterPath="$PROJECT_DIR$/www/css/idangerous.swiper.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/main.css" afterPath="$PROJECT_DIR$/www/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_alcohol.html" afterPath="$PROJECT_DIR$/www/menu_alcohol.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_en_fr.html" afterPath="$PROJECT_DIR$/www/menu_en_fr.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_ru_lv.html" afterPath="$PROJECT_DIR$/www/menu_ru_lv.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_vins.html" afterPath="$PROJECT_DIR$/www/menu_vins.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/navigation.html" afterPath="$PROJECT_DIR$/www/navigation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/show-menu.css" afterPath="$PROJECT_DIR$/www/css/show-menu.css" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\.jscs.json" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\button.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\index.html" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\affix.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\alert.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\button.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\modal.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\phantom.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\popover.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\tab.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\unit\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\vendor\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\vendor\qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tests\vendor\qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\js\transition.js" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\.csslintrc" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\alerts.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\badges.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\breadcrumbs.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\button-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\buttons.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\carousel.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\close.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\code.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\component-animations.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\dropdowns.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\forms.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\glyphicons.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\grid.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\input-groups.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\jumbotron.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\labels.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\list-group.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\media.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\modals.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\navbar.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\navs.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\pager.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\pagination.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\panels.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\popovers.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\print.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\progress-bars.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\responsive-utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\scaffolding.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\tables.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\theme.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\thumbnails.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\tooltip.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\type.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\utilities.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\variables.less" afterPath="" />
+      <change type="DELETED" beforePath="F:\OpenServer\domains\localhost\gubernator_app\www\js\bootstrap\less\wells.less" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gubernator_app.iws" />
@@ -127,6 +183,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gubernator_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gubernator_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -176,13 +246,18 @@
       <created>1406479141839</created>
       <updated>1406479141839</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated design">
+      <created>1406611034669</created>
+      <updated>1406611034669</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49039882" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -199,7 +274,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49039882" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -221,7 +295,8 @@
     <MESSAGE value="Updated menu" />
     <MESSAGE value="Updated config" />
     <MESSAGE value="Updated navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated navigation" />
+    <MESSAGE value="Updated design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated design" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -285,7 +360,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1394" />
+        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1394">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/navigation.html">
@@ -311,7 +388,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1394" />
+        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1394">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/navigation.html">
@@ -337,7 +416,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1394" />
+        <state line="34" column="68" selection-start="1540" selection-end="1540" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1394">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/navigation.html">
@@ -381,7 +462,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="30" selection-start="2034" selection-end="2034" vertical-scroll-proportion="1.5232" vertical-offset="0" max-vertical-offset="1462" />
+        <state line="55" column="30" selection-start="2034" selection-end="2034" vertical-scroll-proportion="1.5232" vertical-offset="0" max-vertical-offset="1462">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/index.html">
@@ -391,12 +474,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/idangerous.swiper.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="13" selection-start="2476" selection-end="2476" vertical-scroll-proportion="0.33947772" vertical-offset="1326" max-vertical-offset="2244" />
+        <state line="91" column="13" selection-start="2476" selection-end="2476" vertical-scroll-proportion="0.33947772" vertical-offset="1326" max-vertical-offset="2244">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/css/gallery.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="16" selection-start="173" selection-end="173" vertical-scroll-proportion="0.23502304" vertical-offset="0" max-vertical-offset="651" />
+        <state line="9" column="16" selection-start="173" selection-end="173" vertical-scroll-proportion="0.23502304" vertical-offset="0" max-vertical-offset="651">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/gallery.html">
