@@ -11,6 +11,8 @@
     <link href="css/main.css" rel="stylesheet" />
     <link href="css/calculate.css" rel="stylesheet" />
 
+    <script src="js/jquery/jquery-1.11.1.min.js"></script>
+
 </head>
 <body>
 
@@ -56,22 +58,22 @@
             <h3>Не знаете сколько оставить на чай? Посчитайте чаевые с помощью специального калькулятора!</h3>
             <form name="tip_calculator" onsubmit="aamakeMoney(this)">
                 <div class="input-group">
-                    <label for="yinput_total_cost">Ваш счет (сумма)</label>
-                    <input id="yinput_total_cost" name="yitotal_cost" size="3" type="text" required="" maxlength="4" />
+                    <label for="total">Ваш счет (сумма)</label>
+                    <input id="total" name="total" size="3" type="number" required="" maxlength="4" />
                 </div>
                 <div class="input-group">
-                    <label for="yinput_how_much_persons">Количество человек</label>
-                    <input id="yinput_how_much_persons" name="yihow_much_persons" size="3" type="text" required="" maxlength="2" />
+                    <label for="persons">Количество человек</label>
+                    <input id="persons" name="persons" size="3" type="number" required="" maxlength="2" />
                 </div>
                 <div class="input-group">
-                    <label for="yinput_tip_persent">Заплатить чаевые в размере (% от счета)</label>
-                    <input id="yinput_tip_persent" name="yitip_persent" size="3" type="text" required=""  maxlength="3" />
+                    <label for="percent">Заплатить чаевые в размере (% от счета)</label>
+                    <input id="percent" name="percent" size="3" type="number" required=""  maxlength="3" />
                 </div>
                 <div class="input-group">
-                    <input name="make_it" onclick="aamakeMoney()" type="button" value="Рассчитать" class="btn btn-block btn-calculate" />
+                    <input name="make_it" type="button" value="Рассчитать" class="btn btn-block btn-calculate" />
                 </div>
                 <div class="input-group">
-                    <p style="text-align: right;">Каждый заплатит:  <span id="youtput_result" style="font-weight:600;"></span></p>
+                    <p style="text-align: right;">Каждый заплатит:  <span id="result" style="font-weight:600;"></span></p>
                 </div>
             </form>
         </div>
@@ -83,18 +85,22 @@
 
 <script type="text/javascript">
 
-    function aamakeMoney(){
+    $(document).ready(function(){
+       $(".btn-calculate").on("click", function(e){
+           e.preventDefault();
 
-        var jtcy = parseInt(document.getElementById('yinput_total_cost').value);
-        var jhpy = parseInt(document.getElementById('yinput_how_much_persons').value);
-        var jtpy = parseInt(document.getElementById('yinput_tip_persent').value);
-        var jory = document.getElementById('youtput_result').innerHTML = (jtcy + (jtcy*jtpy/100))/jhpy + "€";
+           var total = parseInt($("input[name=total]").val()),
+               persons = parseInt($("input[name=persons]").val()),
+               percent = parseInt($("input[name=percent]").val()),
+               resultTotal = (total + (total * percent / 100)) / persons;
 
-    }
+           $( "#result").html("").append(resultTotal.toFixed(2) + "€");
+
+       });
+    });
 
 </script>
 
-<script src="js/jquery/jquery-1.11.1.min.js"></script>
 <script src="js/jquery.touchSwipe.js"></script>
 <script src="js/fastclick.js"></script>
 <script src="js/main.js"></script>

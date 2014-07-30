@@ -199,7 +199,7 @@ body {
   font-size: 23px;
   line-height: 1.42857143;
   color: #ffffff;
-  background-color: #0e487c;
+  background: url("../img/bg-nav.jpg");
 }
 input,
 button,
@@ -876,7 +876,7 @@ img:hover {
   height: 100px;
   padding: 20px;
   border-bottom: 1px solid #855a2a;
-  background: #1d2936 url(../img/bg-nav.jpg) 0 0 repeat;
+  background: url(../img/bg-nav.jpg) 0 0 repeat;
   box-shadow: 0 5px 10px #000;
 }
 .b-header__logo {
@@ -921,7 +921,7 @@ img:hover {
   top: 0;
   display: block;
   width: 80%;
-  max-width: 500px;
+  max-width: 510px;
     min-width: 270px;
   height: 100%;
   overflow-x: hidden;
