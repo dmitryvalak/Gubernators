@@ -852,7 +852,7 @@ img:hover {
 .i-canvas-wrapper {
   position: relative;
   min-height: 100%;
-  padding-bottom: 210px;
+  padding-bottom: 50px;
   background: url(../img/home.jpg) center bottom no-repeat;
   -webkit-background-size: cover;
   margin-left: -1px;

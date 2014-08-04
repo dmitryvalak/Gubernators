@@ -2,42 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a98f37d5-fafb-4291-9d6f-081960f33b09" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/001_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/014_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/015_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/017_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/019_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/020_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/022_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/024_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/025_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/030_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/034_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/035_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/036_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/039_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/040_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/046_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/047_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/048_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/053_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/054_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/057_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/060_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/061_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/062_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/066_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/067_080114_gubernator.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/DSC_3864.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/DSC_3928.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/DSC_3943.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/DSC_3959.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/DSC_4007.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/DSC_4596.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/DSC_4718.min.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/gallery/DSC_4748.min.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/nav-toggle-2x.png" afterPath="$PROJECT_DIR$/www/img/nav-toggle-2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/nav-toggle.png" afterPath="$PROJECT_DIR$/www/img/nav-toggle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/main.css" afterPath="$PROJECT_DIR$/www/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_alcohol.html" afterPath="$PROJECT_DIR$/www/menu_alcohol.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_en_fr.html" afterPath="$PROJECT_DIR$/www/menu_en_fr.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_ru_lv.html" afterPath="$PROJECT_DIR$/www/menu_ru_lv.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/menu_vins.html" afterPath="$PROJECT_DIR$/www/menu_vins.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gubernator_app.iws" />
@@ -60,7 +29,35 @@
     <favorites_list name="gubernator_app" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="menu_vins.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/menu_vins.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="143" selection-start="2197" selection-end="2197" vertical-scroll-proportion="-12.115385" vertical-offset="637" max-vertical-offset="1309">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="854" column="19" selection-start="13151" selection-end="13151" vertical-scroll-proportion="0.41628265" vertical-offset="14281" max-vertical-offset="19414">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu_alcohol.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/menu_alcohol.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="147" selection-start="2201" selection-end="2201" vertical-scroll-proportion="-12.615385" vertical-offset="624" max-vertical-offset="1292">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -83,13 +80,13 @@
         <option value="$PROJECT_DIR$/www/css/contacts.css" />
         <option value="$PROJECT_DIR$/www/js/main.js" />
         <option value="$PROJECT_DIR$/www/calculate.html" />
-        <option value="$PROJECT_DIR$/www/css/main.css" />
         <option value="$PROJECT_DIR$/www/gallery.html" />
         <option value="$PROJECT_DIR$/www/navigation.html" />
+        <option value="$PROJECT_DIR$/www/menu_en_fr.html" />
         <option value="$PROJECT_DIR$/www/menu_ru_lv.html" />
         <option value="$PROJECT_DIR$/www/menu_vins.html" />
         <option value="$PROJECT_DIR$/www/menu_alcohol.html" />
-        <option value="$PROJECT_DIR$/www/menu_en_fr.html" />
+        <option value="$PROJECT_DIR$/www/css/main.css" />
       </list>
     </option>
   </component>
@@ -142,20 +139,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gubernator_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gubernator_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gubernator_app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -223,7 +206,11 @@
       <created>1406740356630</created>
       <updated>1406740356630</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Well done">
+      <created>1406780553201</created>
+      <updated>1406780553201</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -244,12 +231,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49039882" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -439,11 +426,6 @@
         <state line="57" column="7" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="1139" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="920" column="9" selection-start="14739" selection-end="14739" vertical-scroll-proportion="0.39016896" vertical-offset="15420" max-vertical-offset="19414" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="155" column="22" selection-start="6882" selection-end="6882" vertical-scroll-proportion="0.8432" vertical-offset="2125" max-vertical-offset="3026" />
@@ -454,29 +436,44 @@
         <state line="50" column="106" selection-start="1954" selection-end="1954" vertical-scroll-proportion="-0.544" vertical-offset="1190" max-vertical-offset="2720" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_ru_lv.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="84" selection-start="2138" selection-end="2138" vertical-scroll-proportion="0.5248" vertical-offset="641" max-vertical-offset="1309" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_vins.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="84" selection-start="2138" selection-end="2138" vertical-scroll-proportion="0.5248" vertical-offset="641" max-vertical-offset="1309" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/calculate.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="96" column="31" selection-start="3854" selection-end="3854" vertical-scroll-proportion="0.9728" vertical-offset="1041" max-vertical-offset="1972" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/menu_alcohol.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="84" selection-start="2138" selection-end="2138" vertical-scroll-proportion="0.552" vertical-offset="624" max-vertical-offset="1292" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/menu_en_fr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="84" selection-start="2138" selection-end="2138" vertical-scroll-proportion="0.5248" vertical-offset="641" max-vertical-offset="1309" />
+        <state line="56" column="142" selection-start="2195" selection-end="2196" vertical-scroll-proportion="0.5584" vertical-offset="637" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_ru_lv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="144" selection-start="2198" selection-end="2198" vertical-scroll-proportion="0.5584" vertical-offset="637" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_alcohol.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="147" selection-start="2201" selection-end="2201" vertical-scroll-proportion="-12.615385" vertical-offset="624" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/menu_vins.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="143" selection-start="2197" selection-end="2197" vertical-scroll-proportion="-12.115385" vertical-offset="637" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="854" column="19" selection-start="13151" selection-end="13151" vertical-scroll-proportion="0.41628265" vertical-offset="14281" max-vertical-offset="19414">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
