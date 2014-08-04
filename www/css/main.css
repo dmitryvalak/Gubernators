@@ -1021,10 +1021,10 @@ img:hover {
   color: #fff;
 }
 .b-hours {
-  background: url(../img/hours-bg.jpg) center no-repeat;
+  background: url(../img/hours-bg.jpg) center repeat;
   padding: 40px;
   width: 90%;
-  margin: 200px auto 0 auto;
+  margin: 25% auto 0 auto;
   text-align: center;
   border-radius: 20px;
   font-size: 28px;
